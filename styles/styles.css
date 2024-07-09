@@ -1,11 +1,15 @@
 
-
 .azeret-mono-normal {
   font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
   
 }
+
+h2{
+    font-size: 32px;
+}
+
 /* Other Design CSS */
 .btn-design{
     font-weight: 600;
@@ -32,18 +36,18 @@
 
 /* banner design  */
 #banner-section{
-    position: absolute;
+    position: relative;
     align-items: center;
 
-  
 }
 .banner{
-    position: absolute;
+    position: relative;
     text-align: center;
     margin: 44px 221px 44px 221px;
      
 }
 .banner-image{
+    position: relative;
     width: 240px;
     height: auto;
 }
@@ -53,6 +57,7 @@
     text-align: center;
 
 }
+
 .banner-decription{
     font-weight: 400;
     font-size: 16px;
@@ -62,5 +67,68 @@
 }
 
 
+/* **************************** */
+.section-2{
+    position: absolute;
+    margin-left: 249px;
+    margin-right: 245px;
+    
+}
+
+.dev-class{
+    text-align: center;
+    margin-right: 292px;
+    margin-left: 296px;
+    margin-top: 96px;
+    
+}
+
+.dev-title{
+    size: 32px;
+
+}
+.item-dec{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+
+}
+.item-title{
+    font-weight: 700;
+    font-size: 24px;
+    margin-right: 87px;
+
+}
+
+/* ************************* */
+.abut-item{
+    display: flex;
+    align-items: center;
+    padding: 48px;
+    width: 850px;
+    height: 240px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 80px;
+    gap: 98px;
+
+}
+
+.learn-btn{
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+    padding: 12px 20px 12px 20px;
+}
+
+
+/* ******************** */
+
+.youtube-video{
+    margin-left: 180px;
+    margin-right: 183px;
+    margin-top: 48px;
+
+}
 
 
