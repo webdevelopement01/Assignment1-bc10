@@ -8,6 +8,8 @@
 }
 /* Other Design CSS */
 .btn-design{
+    font-weight: 600;
+    font-size: 20px;
     background: #333;
     padding: 10px 20px;
     color: white;
@@ -27,8 +29,38 @@
     font-size: 45px;
     color: #0D1321;
 }
-.header-btn{
-    font-weight: 600;
-    font-size: 20px;
+
+/* banner design  */
+#banner-section{
+    position: absolute;
+    align-items: center;
+
+  
 }
+.banner{
+    position: absolute;
+    text-align: center;
+    margin: 44px 221px 44px 221px;
+     
+}
+.banner-image{
+    width: 240px;
+    height: auto;
+}
+.banner-title{
+    font-weight: 800;
+    font-size: 48px;
+    text-align: center;
+
+}
+.banner-decription{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-left: 221px;
+    margin-right: 221px;
+}
+
+
+
 
