@@ -107,6 +107,7 @@ main{
     background-image: url('../assets/handshake.jpg');
     padding: 48px 64px 48px 64px;
     border-radius: 16px;
+    color: white;
 
 }
 .support-section{
@@ -137,9 +138,7 @@ form{
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.0);
 }
-footer .social-madia p {
-    color: white;
-}
+
 
 
 
