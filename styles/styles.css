@@ -88,7 +88,6 @@ main{
     padding: 12px 20px 12px 20px;
 }
 .youtube-video{
-
     margin-top: 48px;
     border-radius: 16px;
 
@@ -108,21 +107,20 @@ main{
 }
 
 .support{
-    background-image: url('../images/handshake.jpg');
+    background-image: url('../assets/handshake.jpg');
     padding: 48px 64px 48px 64px;
+    border-radius: 16px;
 
 }
 .support-section{
     text-align: center;
 }
 
-
 form{
     display: flex;
     max-width: 600px;
     margin-top: 24px;
     justify-content: space-evenly;
-
 }
 .sup-text{
     width: 320px;
@@ -131,6 +129,21 @@ form{
     padding: 10px;
     border: none;
 }
+
+.social-madia{
+    align-items: center;
+    display: flex;
+    margin-left: 220px;
+    margin-right: 220px;
+    padding: 15px;
+    justify-content: space-between;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.0);
+}
+
+
+
+
 
 
 
